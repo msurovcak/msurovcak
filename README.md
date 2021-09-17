@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**msurovcak/msurovcak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working as Infrastructure Lead at Memsource, making Memsource the best TMS.
 
-Here are some ideas to get you started:
+I am generally interested in nice code, leadership, honesty and fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working on my Lenovo T14 (used to be a Mac guy), I tick all the tech-hipster boxes:
+
+- Arch Linux
+- i3wm
+- zsh
+- vim/Sublime Text
+- Source Code Pro
+- Python, Ruby (learning Golang)
+- AWS
+- Ansible, Terraform, Packer, Kubernetes, Helm
+
+In free time:
+
+- husband and father
+- bike (road, DH... you name it)
+- cooking, gaming
+
+Living in Prague, CZ
+
