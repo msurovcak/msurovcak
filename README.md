@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Currently working as Infrastructure Lead at Memsource, making Memsource the best TMS.
+Director of Platform Engineering at Phrase.
 
-I am generally interested in nice code, leadership, honesty and fun.
+I am generally interested in nice code, purpose, honesty and fun.
 
-Working on my Lenovo T14 (used to be a Mac guy), I tick all the tech-hipster boxes:
+Working on my Lenovo T14 I tick all the tech-hipster boxes:
 
 - Arch Linux
 - i3wm
@@ -15,11 +15,15 @@ Working on my Lenovo T14 (used to be a Mac guy), I tick all the tech-hipster box
 - AWS
 - Ansible, Terraform, Packer, Kubernetes, Helm
 
+Sometimes I do the same on a M1 MacBook Pro.
+
 In free time:
 
 - husband and father
-- bike (road, DH... you name it)
-- cooking, gaming
+- bike
+- beer & burgers
+
+> You have six bikes and one ass
 
 Living in Prague, CZ
 
