@@ -4,26 +4,20 @@ Director of Platform Engineering at Phrase.
 
 I am generally interested in nice code, purpose, honesty and fun.
 
-Working on my Lenovo T14 I tick all the tech-hipster boxes:
-
-- Arch Linux
-- i3wm
+- MacOS and I use Sway on Arch btw.
 - zsh
-- vim/Sublime Text
+- nvim/Sublime Text
 - Source Code Pro
-- Python, Ruby (learning Golang)
 - AWS
-- Ansible, Terraform, Packer, Kubernetes, Helm
-
-Sometimes I do the same on a M1 MacBook Pro.
+- Python, Ruby, Golang
+- Kubernetes
+- Hashi (or IBM?) stack (Packer, Terraform, Vault)
 
 In free time:
 
-- husband and father
-- bike
+- father
+- biker
 - beer & burgers
-
-> You have six bikes and one ass
+- coffee snob
 
 Living in Prague, CZ
-
