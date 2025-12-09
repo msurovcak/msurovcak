@@ -1,23 +1,23 @@
 ### Hi there 👋
 
-Director of Platform Engineering at Phrase.
+I’m Martin — Director of Platform Engineering at Phrase.
 
-I am generally interested in nice code, purpose, honesty and fun.
+I care about clean code, building things with purpose, and working with honesty (and a bit of fun).
 
-- MacOS and I use Sway on Arch btw.
+**Tech I enjoy / work with**
+- macOS (and when Linux, yes: Arch, btw)
 - zsh
-- nvim/Sublime Text
+- Neovim
 - Source Code Pro
 - AWS
-- Python, Ruby, Golang
+- Python · Ruby · Go
 - Kubernetes
-- Hashi (or IBM?) stack (Packer, Terraform, Vault)
+- Hashi stack (Packer, Terraform, Vault)
 
-In free time:
+**Outside of work**
+- dad
+- bikes
+- craft beer & burgers
+- coffee snob ☕
 
-- father
-- biker
-- beer & burgers
-- coffee snob
-
-Living in Prague, CZ
+📍 Prague, CZ
